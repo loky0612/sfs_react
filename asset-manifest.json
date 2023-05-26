@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/github.io/sfs_react/static/css/main.5266b301.css",
-    "main.js": "/github.io/sfs_react/static/js/main.76e4da2e.js",
-    "static/js/787.a128058a.chunk.js": "/github.io/sfs_react/static/js/787.a128058a.chunk.js",
-    "static/media/citimage.jpeg": "/github.io/sfs_react/static/media/citimage.fa40a7f30148cf82a230.jpeg",
-    "static/media/data-analytics.jpg": "/github.io/sfs_react/static/media/data-analytics.1ce8237860b9409bdcfa.jpg",
-    "static/media/logo.jpg": "/github.io/sfs_react/static/media/logo.8cda851960ad5870e172.jpg",
-    "static/media/Feedback-1.jpg": "/github.io/sfs_react/static/media/Feedback-1.f3bd72dcae1a9d3510eb.jpg",
-    "index.html": "/github.io/sfs_react/index.html",
-    "main.5266b301.css.map": "/github.io/sfs_react/static/css/main.5266b301.css.map",
-    "main.76e4da2e.js.map": "/github.io/sfs_react/static/js/main.76e4da2e.js.map",
-    "787.a128058a.chunk.js.map": "/github.io/sfs_react/static/js/787.a128058a.chunk.js.map"
+    "main.css": "/loky0612/sfs_react.git/static/css/main.5266b301.css",
+    "main.js": "/loky0612/sfs_react.git/static/js/main.ec8211cc.js",
+    "static/js/787.a128058a.chunk.js": "/loky0612/sfs_react.git/static/js/787.a128058a.chunk.js",
+    "static/media/citimage.jpeg": "/loky0612/sfs_react.git/static/media/citimage.fa40a7f30148cf82a230.jpeg",
+    "static/media/data-analytics.jpg": "/loky0612/sfs_react.git/static/media/data-analytics.1ce8237860b9409bdcfa.jpg",
+    "static/media/logo.jpg": "/loky0612/sfs_react.git/static/media/logo.8cda851960ad5870e172.jpg",
+    "static/media/Feedback-1.jpg": "/loky0612/sfs_react.git/static/media/Feedback-1.f3bd72dcae1a9d3510eb.jpg",
+    "index.html": "/loky0612/sfs_react.git/index.html",
+    "main.5266b301.css.map": "/loky0612/sfs_react.git/static/css/main.5266b301.css.map",
+    "main.ec8211cc.js.map": "/loky0612/sfs_react.git/static/js/main.ec8211cc.js.map",
+    "787.a128058a.chunk.js.map": "/loky0612/sfs_react.git/static/js/787.a128058a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5266b301.css",
-    "static/js/main.76e4da2e.js"
+    "static/js/main.ec8211cc.js"
   ]
 }
