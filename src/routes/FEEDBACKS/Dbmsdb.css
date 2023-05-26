@@ -1,0 +1,66 @@
+.dbmsdbmain{
+    background: linear-gradient(120deg,#2980b9, #8e44ad);
+    height: 100vh;
+}
+.fdheader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+.fdnav-menu{
+    display: flex;
+
+}
+.fdnav-menu ul{
+    text-decoration: none;
+}
+.fdnav-menu li{
+    padding: 0 1rem;
+}
+.fdnav-menu li a{
+    font-size: 1.1rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    font-family: 'Poppins',sans-serif;
+    color: white;
+    letter-spacing: 0.5px;
+    padding: 0 10px;
+}
+.fdnav-menu li a::after{
+    content: "";
+    position: absolute;
+    background-color: #ff3c78;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.3s;
+}
+.fdnav-menu li a::after{
+    color: #ffffff;
+}
+
+.fdnav-menu li a:hover{
+    color: #ffffff;
+}
+.fdnav-menu li a:hover::after{
+    width: 100%;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+}
+.data{
+    height: 80vh;
+    background-color: white;
+    width: 80%;
+    border-radius: 20px;
+    margin-left: 150px;
+}
+.submain{
+    text-align: center;
+    margin-top: 10px;
+}

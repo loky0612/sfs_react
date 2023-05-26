@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.man{
+    height: 100vh;
+    background: linear-gradient(130deg,#2980b9,white,#8e44ad);
+    padding-top: 40px;
+}
+.cont{
+    background:white;
+    padding: 20px;
+    border-radius: 20px;
+    width: 410px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.subtext{
+    display: flex;
+    align-items: center;
+    padding-bottom: 35px;
+    font-size: 19px;
+    text-decoration: none;
+}
+.subtext a{
+    text-decoration: none;
+    color: black;
+}
+.subtext h1 {
+    font-size: 20px;
+    font-family: 'Outfit',sans-serif;
+}
+.tt{
+    width: 350px;
+    height: 150px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.bt{
+    background: linear-gradient(120deg,#2980b9, #8e44ad);
+    color: #fff;
+    margin-top: 10px;
+    width: 400px;
+    height:50px;
+    border-radius: 20px;
+    padding: 10px 0;
+    border: none;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: .2s;
+}
+.bt:hover{
+    background: linear-gradient(120deg,#8e44ad,#2980b9);
+    border: 3px;
+}
+
+.star{
+    font-size: 30px;
+    transition: 2s;
+}
+.ll{
+    padding-left: 10px;
+}
+.subf{
+    background: linear-gradient(120deg,#2980b9, #8e44ad);
+    width: 500px;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 460px;
+}
+.sh{
+    color: white;
+    word-spacing: 10px;
+}
+.feedbt{
+    padding-top: 25px;
+    padding-left: 513px;
+}
+.first{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 45px;
+}
+.second{
+    display:flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.bbox{
+    box-shadow: -30px 30px 30px rgba(0,0,0,0.3) ;
+    border-radius: 20px;
+    text-decoration: none;
+}

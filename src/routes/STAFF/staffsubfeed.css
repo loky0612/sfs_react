@@ -1,0 +1,100 @@
+.stafffeedmain{
+    background: linear-gradient(120deg,#2980b9, #8e44ad);
+    height: 100vh;
+}
+.scont{
+    background:white;
+    padding: 20px;
+    border-radius: 30px;
+    width: 550px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+}
+.ssubtext{
+    display: flex;
+    margin-left: 57px;
+    padding-bottom: 35px;
+    font-size: 21px;
+    padding-top: 20px;
+}
+.ssubtext h1 {
+    font-size: 20px;
+    font-family: 'Outfit',sans-serif;
+}
+.sheader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+.snav-menu{
+    display: flex;
+
+}
+.snav-menu ul{
+    text-decoration: none;
+}
+.snav-menu li{
+    padding: 0 1rem;
+}
+.snav-menu li a{
+    font-size: 1.1rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    font-family: 'Poppins',sans-serif;
+    color: white;
+    letter-spacing: 0.5px;
+    padding: 0 10px;
+}
+.snav-menu li a::after{
+    content: "";
+    position: absolute;
+    background-color: #ff3c78;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.3s;
+}
+.snav-menu li a::after{
+    color: #ffffff;
+}
+
+.snav-menu li a:hover{
+    color: #ffffff;
+}
+.snav-menu li a:hover::after{
+    width: 100%;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+}
+.semf{
+    height: 100px;
+    width: 85%;
+    background-color: #2980b9;
+}
+.semd,.semp,.semo,.semm,.semi,.seme{
+    margin-top: 20px;
+    width: 90%;
+    background-color:white;
+    text-align: center;
+    height: 80px;
+    margin-left: 70px;
+    border-radius: 20px;
+}
+.semd a,.semp a,.semo a,.semm a,.semi a,.seme a{
+    text-decoration: none;
+    color: black;
+}
+.subs{
+    margin-top: 60px;
+}
+.e{
+    padding-top: 20px;
+    text-decoration: none;
+}
