@@ -14,7 +14,7 @@ const Evsdb = () => {
         setUsers(data.docs.map((doc)=>({ ...doc.data(),id: doc.id})));
     };
     getUsers();
-  }, []);  
+  });  
   return (
     <div className='dbmsdbmain'>
         <div className='fdheader'>
